@@ -1,4 +1,4 @@
-theme = "Hikari"
+theme = "hikari"
 
 # The URL the site will be built for
 base_url = "https://Himeno2yo.github.io"
