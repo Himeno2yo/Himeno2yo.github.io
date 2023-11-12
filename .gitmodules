@@ -1,3 +1,3 @@
 [submodule "theme/hikari"]
-	path = theme/hikari
+	path = themes/hikari
 	url = https://github.com/waynee95/zola-theme-hikari
